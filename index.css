@@ -13,7 +13,7 @@ body {
 .header-add {
     max-width: 100vw;
     height: 50px;
-    background-image: url('pictures/headerAdd.jpg');
+    background-image: url('pictures/67a19699bd61523e21f17e78ea2dab335d6585c8_1664737869.png');
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -79,6 +79,10 @@ body {
     justify-content: space-between;
     padding-inline: 4rem;
     margin-block: 2rem;
+}
+.icons a {
+    text-decoration: none;
+    color: black;
 }
 .icons div {
     display: flex;
